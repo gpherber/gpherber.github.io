@@ -1,5 +1,5 @@
 ---
-title: 'Home Server - Specs and Proxmox Install'
+title: 'Home Server - Part 1 - Specs and Proxmox Install'
 date: 2022-07-05 15:01:01 +/-0000
 categories: [HomeServer, Hardware]
 tags: [hardware, server, homelab, ryzen, pfsense, proxmox]

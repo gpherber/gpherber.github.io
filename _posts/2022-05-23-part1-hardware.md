@@ -1,5 +1,5 @@
 ---
-title: Home Server Build: Part 1, Hardware Choice
+title: 'Home Server Build: Part 1, Hardware Choice'
 date: 2022-07-05 15:01:01 +/-0000
 categories: [HomeServer, Hardware]
 tags: [hardware, server, homelab, ryzen, pfsense, proxmox]

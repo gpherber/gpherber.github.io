@@ -28,7 +28,7 @@ tagline: A site for documenting the configuration of my home server   # it will 
 description: A site for documenting the configuration of my home server    # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'http://docs.herbertcomputers.co.uk'
 
 github:
   username: gpherber             # change to your github username
